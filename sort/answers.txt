@@ -1,0 +1,27 @@
+sort1 uses: Bubble sort.
+How do you know?: I run the sorts on the three text files which contain 50000 numbers.
+The result is following:
+      random  sorted  reversed
+sort1 8.487   2.311   6.545
+sort2 1.495   2.118   2.114
+sort3 4.603   4.126   4.872
+The difference between the best result and the worst is too large.
+The best result is n order of magnitude and the worst result is on the order of n squared.
+sort2 uses: Merge sort.
+How do you know?: I run the sorts on the three text files which contain 50000 numbers.
+The result is following:
+      random  sorted  reversed
+sort1 8.487   2.311   6.545
+sort2 1.495   2.118   2.114
+sort3 4.603   4.126   4.872
+The difference between the best result and the worst is small.
+The best result and worst are both n order of magnitude.
+sort3 uses: Selection sort.
+How do you know?: I run the sorts on the three text files which contain 50000 numbers.
+The result is following:
+      random  sorted  reversed
+sort1 8.487   2.311   6.545
+sort2 1.495   2.118   2.114
+sort3 4.603   4.126   4.872
+The difference between the best result and the worst is small.
+The best result and worst are both n squared order of magnitude.
